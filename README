@@ -1,0 +1,1 @@
+Date::MonthSet is a DBIx::Class extension to provide values for selected columns via hooks.

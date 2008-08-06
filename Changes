@@ -1,0 +1,8 @@
+Revision history for Perl extension DBIx::Class::AutoColumn
+
+0.1 - Wed Aug  6 07:07:26 CDT 2008
+ - initial release
+
+0.01 - Wed Aug  6 05:41:36 CDT 2008
+ - started work on DBIx::Class::AutoColumn
+

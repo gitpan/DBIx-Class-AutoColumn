@@ -1,0 +1,10 @@
+name:               DBIx-Class-AutoColumn
+version:            0.1
+abstract:           DBIx::Class extension to provide values for selected columns via hooks
+license:            perl
+version_from:       lib/DBIx/Class/AutoColumn.pm
+installdirs:        site
+distribution_type:  module
+generated_by:       Mike Eldridge <diz@cpan.org>
+author:
+  - Mike Eldridge <diz@cpan.org>
